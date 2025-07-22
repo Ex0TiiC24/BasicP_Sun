@@ -1,0 +1,1 @@
+distance = int(input("Distance: "))
